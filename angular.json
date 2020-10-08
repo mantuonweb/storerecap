@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "online-courses"
+    }
+  },
+  "defaultProject": "online-courses",
+  "cli": {
+    "analytics": "3c4fe41c-62ff-4c60-97ac-50d2b56627d7"
+  }
 }
